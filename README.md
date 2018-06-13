@@ -5,7 +5,7 @@ Sends multiple commands to a non-limited number of remote machines through the n
 # Laboratory Context
 Technical Env : Linux - SMP Debian 3.2.65-1+deb7u2 i686
 
-Targets (Originally design for) : HP / H3C equipements
+Targets (Originally designed for) : HP / H3C equipements
 
 ## FR ##
 ### Programme :   
